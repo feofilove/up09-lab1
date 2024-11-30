@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #333; /* Темный фон */
+    color: #fff; /* Светлый текст */
+    font-size: 3rem; /* Размер текста */
+}
+
+.container {
+    text-align: center; /* Центрирование текста */
+}
